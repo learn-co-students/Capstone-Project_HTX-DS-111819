@@ -22,7 +22,7 @@ A full list of expectations can be found in the rubric which will be used to giv
 
 Deadlines are denoted in **bold**, the rest are strong suggestions to help keep you on track.
 
-- February 19: If you have multiple ideas and are looking for instructor feedback, you should pitch 3 thought-out ideas to Bryan by the first Wednesday
+- February 19: If you have multiple ideas and are looking for instructor feedback, you should pitch 3 thought-out ideas to Bryan by the first Wednesday of the capstone module
 - **February 21:** You _must_ have Bryan approve your full project design by Friday, February 21
 
   - We suggest that, by this point, you have gathered all the data you'll be using (if relevant)
