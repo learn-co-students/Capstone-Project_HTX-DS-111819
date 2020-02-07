@@ -4,11 +4,9 @@
 
 !['ere we go gif from GIPHY](https://media.giphy.com/media/nqc3H6pyCNZEx6n6MX/giphy.gif)
 
-The goal of the Capstone Project is to provide an opportunity for you to demonstrate your accomplishments and to prove you can design, execute, and present a full-scale data science project. 
-
 ## The Requirements:
 
-You are expected to spend the Capstone Project module completing a full data science project. 
+The goal of the Capstone Project is to provide an opportunity for you to demonstrate your accomplishments and to prove you can design, execute, and present a full-scale data science project. 
 
 At the end, your deliverables will at the very least include:
 
